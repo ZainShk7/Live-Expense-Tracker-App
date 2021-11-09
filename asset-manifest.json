@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Live-Expense-Tracker-App/static/css/main.a418fed0.chunk.css",
+    "main.js": "/Live-Expense-Tracker-App/static/js/main.7085fc84.chunk.js",
+    "main.js.map": "/Live-Expense-Tracker-App/static/js/main.7085fc84.chunk.js.map",
+    "runtime-main.js": "/Live-Expense-Tracker-App/static/js/runtime-main.8f648a6c.js",
+    "runtime-main.js.map": "/Live-Expense-Tracker-App/static/js/runtime-main.8f648a6c.js.map",
+    "static/js/2.2fb638d7.chunk.js": "/Live-Expense-Tracker-App/static/js/2.2fb638d7.chunk.js",
+    "static/js/2.2fb638d7.chunk.js.map": "/Live-Expense-Tracker-App/static/js/2.2fb638d7.chunk.js.map",
+    "static/js/3.34f6ba8b.chunk.js": "/Live-Expense-Tracker-App/static/js/3.34f6ba8b.chunk.js",
+    "static/js/3.34f6ba8b.chunk.js.map": "/Live-Expense-Tracker-App/static/js/3.34f6ba8b.chunk.js.map",
+    "index.html": "/Live-Expense-Tracker-App/index.html",
+    "static/css/main.a418fed0.chunk.css.map": "/Live-Expense-Tracker-App/static/css/main.a418fed0.chunk.css.map",
+    "static/js/2.2fb638d7.chunk.js.LICENSE.txt": "/Live-Expense-Tracker-App/static/js/2.2fb638d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8f648a6c.js",
+    "static/js/2.2fb638d7.chunk.js",
+    "static/css/main.a418fed0.chunk.css",
+    "static/js/main.7085fc84.chunk.js"
+  ]
+}
