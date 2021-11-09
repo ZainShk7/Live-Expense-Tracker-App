@@ -1,0 +1,43 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+.Main-container{
+     display: flex;
+    /*flex-direction: column;
+    align-items: center;
+    justify-content: center;*/
+    margin: 10px 0; 
+background-color:white;
+/* height: 120px;
+width: 350px; */
+padding: 10px;
+border: 1px solid black;
+box-shadow: 5px 10px gray;
+justify-content: space-between;
+margin-bottom: 20px;
+}
+.Income{
+        color: #b6960a;
+    font-weight: 500;
+}
+.Expense{
+        color: skyblue;
+    font-weight: 500;
+}
+.Main-container>div{
+    flex: 1;
+    text-align: center;
+}
+.Main-container>div:first-of-type{
+    border-right: 1px solid black;
+}
+.Income{
+    font-size: x-large;
+}
+.Expense{
+    font-size: x-large;
+}
